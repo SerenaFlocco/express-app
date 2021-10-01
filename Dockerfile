@@ -1,4 +1,4 @@
-FROM node:14
+FROM quay.io/upslopeio/node-alpine
 
 # Create app directory
 WORKDIR /usr/src/app
